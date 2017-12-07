@@ -1,0 +1,18 @@
+{
+  "name": "downloads-db",
+  "version": "1.0.0",
+  "description": "Keep a database of your downloads",
+  "main": "index.js",
+  "repository": "https://github.com/tweeres04/downloads-db",
+  "author": "Tyler Weeres",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.6.1",
+    "chokidar": "^1.7.0",
+    "globby": "^7.1.1",
+    "is-video": "^1.0.1",
+    "lodash": "^4.17.4",
+    "mz": "^2.7.0",
+    "nedb": "^1.8.0"
+  }
+}
